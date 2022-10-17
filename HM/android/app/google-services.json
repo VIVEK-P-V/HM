@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1053601409536",
+    "firebase_url": "https://health-mission-default-rtdb.firebaseio.com",
+    "project_id": "health-mission",
+    "storage_bucket": "health-mission.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053601409536:android:56b30de3ce13352b8e46e5",
+        "android_client_info": {
+          "package_name": "com.example.firebase_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053601409536-v295hn5vskcub76svu742m4573dj8rj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrwNHqKeRfL-eTzRA6AurSlyp9XfF9mWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053601409536-v295hn5vskcub76svu742m4573dj8rj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
